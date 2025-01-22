@@ -32,6 +32,12 @@ Description: This repository will hold assignments.
 ## Guessing Game
 
 ```mermaid
+---
+config:
+  look: handDrawn
+  theme: neutral
+---
+
 flowchart TD
     %% This is the start of the game.
     A[Press Start] -->|Computer generates random number 1 to 10| B(Please guess a number 1 to 10!);
