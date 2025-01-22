@@ -6,15 +6,15 @@ Description: This repository will hold assignments.
 # About Me
 ## Interests I Have
 * Anime
-     *Anime I currently watch
+     * Anime I currently watch
   1. One Piece
   2. Solo Leveling
   3. Fire Force *Rewatching to prepare for the new season.*
 * Video Games
-      *Systems I play on
-       1. PS5
-       2. XBox One
-       3. Nintendo Switch
+      * Systems I play on
+  1. PS5
+  2. XBox One
+  3. Nintendo Switch
 * Food and Restuarants
      * Korean BBQ
      * Sushi
