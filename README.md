@@ -19,6 +19,7 @@ Description: This repository will hold assignments.
      * Korean BBQ
      * Sushi
      * Latin
+
 ## Recommended Websites
 [Link text](https://www.crunchyroll.com/) - This is where I watch most of the anime I like.
 
