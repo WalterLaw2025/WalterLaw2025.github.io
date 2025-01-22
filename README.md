@@ -13,6 +13,7 @@ Description: This repository will hold assignments
      * Latin
 ## Recommended Websites
 [Link text](https://www.crunchyroll.com/) - This is where I watch most of the anime I like.
+
 [Link text](https://www.gamestop.com/) - Most of my games are bought from here *though most are bought from in the store*.
 * Eat Happy, Be Happy
      * [Link text](https://thekpot.com/) - This is definitely one of my favorite places to eat. It is really good for groups but I also like to come by myself and even watch a little anime or other shows while savoring the delicious food.
