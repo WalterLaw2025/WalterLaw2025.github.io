@@ -31,7 +31,7 @@ Description: This repository will hold assignments.
 
 ## Guessing Game
 
-'''mermaid
+```mermaid
 flowchart TD
     %% This is the start of the game.
     A[Press Start] -->|Computer generates random number 1 to 10| B(Please guess a number 1 to 10!);
@@ -46,4 +46,4 @@ flowchart TD
     %% The computer notifies that the guessed number is incorrect and prompts player to try again with another guess. 
     E --> B;
     %% The player will need to guess a new number.
-'''    
+```    
