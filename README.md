@@ -9,7 +9,7 @@ Description: This repository will hold assignments.
      * Anime I currently watch
   1. One Piece
   2. Solo Leveling
-  3. Fire Force *Rewatching to prepare for the new season.*
+  3. Fire Force *(Rewatching to prepare for the new season.)*
 * Video Games
      * Systems I play on
   1. PS5
