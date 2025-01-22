@@ -28,3 +28,29 @@ Description: This repository will hold assignments.
      * [Link text](https://thekpot.com/) - This is definitely one of my favorite places to eat. It is really good for groups but I also like to come by myself and even watch a little anime or other shows while savoring the delicious food.
      * [Link text](https://www.okomehouse.com/) - A restuarant that has quickly become a frequent lunch spot. The food is always fresh and for a good price. *I am currently trying to make my way through each item on the menu.*
      * [Link text](https://www.yelp.com/biz/kumbala-bar-and-grill-raleigh) - A place that most would pass up but definitely has good food. The beans are the best I have had tasted in the area and they have other good selections too.
+ 
+'''Mermaid
+---
+config:
+  look: handDrawn
+  theme: neutral
+---
+
+
+
+
+flowchart TD
+    %% This is the start of the game.
+    A[Press Start] -->|Computer generates random number 1 to 10| B(Please guess a number 1 to 10!)
+    %% The computer will generate a number to be guessed and prompt for a number to be guessed.
+    B --> C{Guessed number is input}
+    %% The player will guess a number and input it to see if it is correct.
+    C -->|Number is correct| D[Correct! Play again?]
+    %% The input number is correct and the player can choose to play again.
+    D --> A
+    %% The game restarts.
+    C -->|Number is incorrect| E[Incorrect! Guess again!]
+    %% The computer notifies that the guessed number is incorrect and prompts player to try again with another guess. 
+    E --> B
+    %% The player will need to guess a new number.
+'''    
