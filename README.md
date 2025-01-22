@@ -11,7 +11,7 @@ Description: This repository will hold assignments.
   2. Solo Leveling
   3. Fire Force *Rewatching to prepare for the new season.*
 * Video Games
-      * Systems I play on
+     * Systems I play on
   1. PS5
   2. XBox One
   3. Nintendo Switch
