@@ -29,7 +29,9 @@ Description: This repository will hold assignments.
      * [Link text](https://www.okomehouse.com/) - A restuarant that has quickly become a frequent lunch spot. The food is always fresh and for a good price. *I am currently trying to make my way through each item on the menu.*
      * [Link text](https://www.yelp.com/biz/kumbala-bar-and-grill-raleigh) - A place that most would pass up but definitely has good food. The beans are the best I have had tasted in the area and they have other good selections too.
 
+
 ## Guessing Game
+## This is a diagram of the flow of a guessing game.
 
 ```mermaid
 ---
