@@ -27,7 +27,7 @@ Description: This repository will hold assignments.
 * Eat Happy, Be Happy
      * [KPot Korean BBq](https://thekpot.com/) - This is definitely one of my favorite places to eat. It is really good for groups but I also like to come by myself and even watch a little anime or other shows while savoring the delicious food.
      * [Okome House - Sushi](https://www.okomehouse.com/) - A restuarant that has quickly become a frequent lunch spot. The food is always fresh and for a good price. *I am currently trying to make my way through each item on the menu.*
-     * [Yelp fo Kumbala Sports Bar](https://www.yelp.com/biz/kumbala-bar-and-grill-raleigh) - A place that most would pass up but definitely has good food. The beans are the best I have had tasted in the area and they have other good selections too.
+     * [Yelp for Kumbala Sports Bar](https://www.yelp.com/biz/kumbala-bar-and-grill-raleigh) - A place that most would pass up but definitely has good food. The beans are the best I have had tasted in the area and they have other good selections too.
 
 
 ## Guessing Game
