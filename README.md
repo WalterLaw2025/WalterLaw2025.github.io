@@ -31,7 +31,7 @@ Description: This repository will hold assignments.
 
 
 ## Guessing Game
-## This is a diagram of the flow of a guessing game.
+
 
 ```mermaid
 ---
@@ -64,3 +64,4 @@ flowchart TD
     D --> A
     %% The player will need to guess a new number.
 ```    
+## This is a diagram of the flow of a guessing game. It shows how a player plays a guessing game and what happens when the computer responds to different inputs from the player.
