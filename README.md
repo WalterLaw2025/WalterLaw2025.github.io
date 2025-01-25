@@ -21,9 +21,9 @@ Description: This repository will hold assignments.
      * Latin
 
 ## Recommended Websites
-[Crunchyroll Anime Website](https://www.crunchyroll.com/) - This is where I watch most of the anime I like.
+* [Crunchyroll Anime Website](https://www.crunchyroll.com/) - This is where I watch most of the anime I like.
 
-[Gamestop Website](https://www.gamestop.com/) - Some of my games are bought from here, though most are bought from in the store.
+* [Gamestop Website](https://www.gamestop.com/) - Some of my games are bought from here, though most are bought from in the store.
 * Eat Happy, Be Happy
      * [KPot Korean BBq](https://thekpot.com/) - This is definitely one of my favorite places to eat. It is really good for groups but I also like to come by myself and even watch a little anime or other shows while savoring the delicious food.
      * [Okome House - Sushi](https://www.okomehouse.com/) - A restuarant that has quickly become a frequent lunch spot. The food is always fresh and for a good price. *I am currently trying to make my way through each item on the menu.*
